@@ -1,6 +1,6 @@
 ## a Git repository
 
-    https://github.com/vinhhung263/udacity-cloud-develop-project-2
+    https://github.com/vinhhung263/udacity-cloud-develop-project-2/tree/master
 
 
 ## a screenshot of the elastic beanstalk application dashboard after deployement
